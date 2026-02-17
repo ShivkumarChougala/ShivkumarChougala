@@ -4,16 +4,7 @@
 // A bit more about me
 
 const Shivkumar = {
-  code: ["Python", "bash", "Javascript"],
-  tools: [
-    "Wireshark",
-    "Nmap",
-    "Masscan",
-    "ZMap",
-    "BurpSuite",
-    "Metasploit",
-    "Git"
-  ],
+  code: ["Python", "bash", "ShellScripting"],
   environments: ["Kali Linux", "Windows", "Virtual Labs"],
   education: ["B.E Computer Science & Engineering "],
   currentLearning: [
@@ -28,15 +19,9 @@ const Shivkumar = {
     exploring: ["AI in Security", "OSINT", "Network Defense"],
     goal: "Become a Security Researcher"
   },
-  projectsInProgress: [
-    "Firewall Demonstration Lab",
-    "Internet-wide Scan Analysis",
-    "Traffic Behavior Research"
-  ],
   achievements: [
     "Presented research paper on SIEM at International Conference (ICBDAIT)",
     "Winner in multiple Capture The Flag (CTF) competitions"
   ],
-
   hobbies: ["CTF Challenges", "Security Research", "Reading", "Weightlifting"],
 };
