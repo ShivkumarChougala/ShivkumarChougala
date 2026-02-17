@@ -4,24 +4,18 @@
 // A bit more about me
 
 const Shivkumar = {
-  focus: "Cybersecurity & Network Research",
-
-  code: ["Python", "SQL", "Java", "C#"],
-
+  code: ["Python", "bash", "Javascript"],
   tools: [
     "Wireshark",
     "Nmap",
     "Masscan",
     "ZMap",
     "BurpSuite",
-    "Linux",
+    "Metasploit",
     "Git"
   ],
-
   environments: ["Kali Linux", "Windows", "Virtual Labs"],
-
-  education: ["BS Computer Science", "MS CyberSecurity & Networks"],
-
+  education: ["B.E Computer Science & Engineering "],
   currentLearning: [
     "Network Scanning at Scale",
     "SMB Protocol Internals",
@@ -29,19 +23,20 @@ const Shivkumar = {
     "OSINT Intelligence Gathering",
     "Packet-Level Analysis"
   ],
-
   interests: {
     main: "Cybersecurity",
     exploring: ["AI in Security", "OSINT", "Network Defense"],
     goal: "Become a Security Researcher"
   },
-
   projectsInProgress: [
     "Firewall Demonstration Lab",
     "Internet-wide Scan Analysis",
-    "ASN & Proxy Intelligence Mapping",
     "Traffic Behavior Research"
   ],
+  achievements: [
+    "Presented research paper on SIEM at International Conference (ICBDAIT)",
+    "Winner in multiple Capture The Flag (CTF) competitions"
+  ],
 
-  hobbies: ["Reading", "Researching", "Weightlifting", "Building Labs"]
+  hobbies: ["CTF Challenges", "Security Research", "Reading", "Weightlifting"],
 };
